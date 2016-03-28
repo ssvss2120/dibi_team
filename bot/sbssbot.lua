@@ -259,20 +259,15 @@ function create_config( )
     sudo_users = {168980738,192765292},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
+    about_text = [[dibi Bot V3
     An Advanced Anti Spam Bot Forked On TeleSeed
-    
-    Develpoed By:
-    @Mr_Ah_S
     
     Special Thanks To:
     Mehr Pouya
     Arman
     IM/-\N
     Creed Is Dead
-    
-    Powered By @Sbss_Team
-    
+
     #Open Source
     https://github.com/SbssTeam/Sbss
 ]],
